@@ -18,9 +18,7 @@ CSS – 3D styling and layout
 JavaScript – Live time functionality
 
 📁 Files
-cpp
-Copy
-Edit
+
 index.html     // Clock layout  
 style.css      // 3D styling  
 script.js      // Time logic  
