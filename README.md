@@ -1,2 +1,26 @@
-# 3D-Digital-Clock
-3D Clock Component A modern digital clock with a 3D glowing effect, displaying the time in HH:MM:SS format. Designed for dark themes, it updates in real-time using JavaScript. Features sleek styling with CSS3 and is perfect for dashboards, personal sites, or widgets. Easy to customize and integrate into web projects!
+🕒 3D Digital Clock
+A stylish and fully responsive 3D Digital Clock built with HTML, CSS, and JavaScript. Designed to display real-time hours, minutes, and seconds with a modern 3D visual appeal.
+
+🚀 Features
+Real-time digital clock display
+
+Sleek 3D visual design
+
+Responsive layout for all screen sizes
+
+Pure HTML, CSS, and JavaScript — no libraries used
+
+🛠️ Tech Stack
+HTML – Structure
+
+CSS – 3D styling and layout
+
+JavaScript – Live time functionality
+
+📁 Files
+cpp
+Copy
+Edit
+index.html     // Clock layout  
+style.css      // 3D styling  
+script.js      // Time logic  
